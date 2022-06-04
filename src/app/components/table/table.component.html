@@ -1,0 +1,70 @@
+<div style="height: 700px; overflow-y: scroll">
+  <table class="hover:table-auto">
+    <thead class="border-b-2">
+      <tr>
+        <th scope="col" class="px-6 py-3 text-gray-500 text-left">Date</th>
+        <th scope="col" class="px-6 py-3 text-gray-500 text-left">List Name</th>
+        <th scope="col" class="px-6 py-3 text-gray-500 text-left">
+          No. of Entities
+        </th>
+        <th scope="col" class="px-6 py-3 text-gray-500 text-left">Action</th>
+        <th scope="col" class="px-6 py-3">
+          <span class="sr-only"></span>
+        </th>
+      </tr>
+    </thead>
+    <tbody *ngFor="let element of list; let i = index">
+      <tr class="border-b-2 hover:border-none hover:bg-slate-300 group">
+        <th scope="row" class="px-6 py-4 font-medium text-gray-500">
+          {{ element.date }}
+          <img
+            *ngIf="i < 3"
+            src="https://api.iconify.design/icomoon-free:spinner2.svg?color=%23888888"
+          />
+        </th>
+        <td>
+          <div *ngIf="i < 3" class="px-6 py-4 font-semibold text-blue-500">
+            {{ element.listname }}
+          </div>
+          <div *ngIf="i > 2" class="px-6 py-4 font-semibold">
+            {{ element.listname }}
+          </div>
+        </td>
+        <td class="px-6 py-4 text-right">
+          {{ element.entities }}
+        </td>
+        <td>
+          <div *ngIf="i < 3" class="px-6 py-4 flex space-x-4 justify-between">
+            <img
+              src="https://api.iconify.design/mdi:email-fast-outline.svg?color=%23888888"
+              alt="mail"
+            />
+          </div>
+          <div *ngIf="i > 2" class="px-6 py-4 flex space-x-4 justify-between">
+            <img
+              src="https://api.iconify.design/mdi:email-fast-outline.svg?color=%23888888"
+              alt="mail"
+            />
+            <img
+              src="https://api.iconify.design/carbon:share.svg?color=%23888888"
+              alt="share"
+            /><img
+              src="https://api.iconify.design/carbon:edit.svg?color=%23888888"
+              alt="edit"
+            /><img
+              src="https://api.iconify.design/material-symbols:delete-outline-rounded.svg?color=%23888888"
+              alt="delete"
+            />
+          </div>
+        </td>
+        <td class="pl-12" routerLink="/list/{{ element.id }}">
+          <button
+            class="bg-white text-cyan-900 font-bold py-2 px-4 group-hover:border rounded group-hover:border-b-4 group-hover:border-b-slate-900"
+          >
+            Details
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

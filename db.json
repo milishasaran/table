@@ -1,0 +1,109 @@
+{
+    "list" : [
+        {
+           "id" : 1,
+           "date":"",
+           "listname":"Competitive Intelligence",
+           "entities": 0,
+            "description": []  },
+
+        {
+            "id" : 2,
+            "date":"",
+            "listname":"My Vendors",
+            "entities": 0,
+            "description": []  },
+         {
+            "id" : 3,
+            "date":"",
+            "listname":"My Customers",
+            "entities": 0,
+            "description": []  },
+
+         {
+            "id" : 4,
+            "date":"Jul 23",
+            "listname":"Test_30_results",
+            "entities": 28,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 5,
+            "date":"Jun 28",
+            "listname":"To_index",
+            "entities": 100,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 6,
+            "date":"Apr 10",
+            "listname":"KPMG Requested Companies - Listed Set_Prasada Kumar",
+            "entities": 34,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 7,
+            "date":"Mar 12",
+            "listname":"Error Case-LTB To EBITDA Blank_Prasada Kumar",
+            "entities": 24,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 8,
+            "date":"Dec 14",
+            "listname":"Two Companies",
+            "entities": 2,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 9,
+            "date":"Nov 01",
+            "listname":"Custom",
+            "entities": 30,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 10,
+            "date":"Oct 29",
+            "listname":"Mumbai",
+            "entities": 3,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 11,
+            "date":"Nov 09",
+            "listname":"Test Case",
+            "entities": 5,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 12,
+            "date":"Aug 14",
+            "listname":"Builder Index",
+            "entities": 40,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 13,
+            "date":"Jan 01",
+            "listname":"Retired",
+            "entities": 23,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 14,
+            "date":"Sept 11",
+            "listname":"Delhi",
+            "entities": 49,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        },
+
+         {
+            "id" : 15,
+            "date":"Feb 28",
+            "listname":"Leap Year",
+            "entities": 13,
+            "description": ["Bundl Technologies Private Limited(Swiggy) ", " Hector Beverages Private Limited", " Puma Sports Inida Private Limited ", " Dewan Housing Finance Corporation Ltd. ", "  Infosys Limited ", " Think &Learn Private Limited ", " Delhivery Private Limited ", " Wow MOmo Foods Private Limited ", " Rebel Foods Private Limited (Fasoos) ", " LendingKArt Technologies Private Limited ", " ID Fresh Food(India) Private Limited ", " Bharathiasha Technologies Private Limited(PrivateCircle) ", " Gala Precision Engineering Private Limited ", " Balaji Wafers Private Limited ", " Sangreetha Mobiles Private Limited ", " Vodafone Idea Limited ", " Vakrangee Limited"]        }
+
+
+    ]
+}
